@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "storeBanner": "",
+  "games": [
+    {
+      "id": "door-kickers-action-squad",
+      "title": "Door Kickers: Action Squad",
+      "category": "Tiro",
+      "packageName": "com.khg.actionsquad",
+      "versionName": "1.2.3",
+      "published": true,
+      "releaseNotes": "",
+      "rating": "Livre",
+      "synopsis": "Rescue hostages, disarm bombs and save the day in this old school, side scroller action with retro graphics and retro sensibilities. Coop MP Included.",
+      "language": "Português",
+      "coverMode": "fill",
+      "bannerMode": "fill",
+      "minAndroid": 21,
+      "minRamMb": 1024,
+      "storageMb": 500,
+      "requiredAbi": "armeabi-v7a",
+      "controller": "recommended",
+      "players": "1 jogador",
+      "internetRequired": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/door-kickers-action-squad-screenshot-1-igdb-1791899115-bqikp4olydwp6suplm47.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/door-kickers-action-squad-screenshot-2-igdb-1791899115-xovacupkoab7wi7jddsy.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/door-kickers-action-squad-screenshot-3-igdb-1791899115-knklez7gumqridkhelfu.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/door-kickers-action-squad-screenshot-4-igdb-1791899115-e2wqjdgqpdgfyuqpikkj.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/door-kickers-action-squad-screenshot-5-igdb-1791899115-wzmu85op8nqp6aquzcve.jpg"
+      ],
+      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/door-kickers-action-squad-cover-igdb-1791899115-co20zt.jpg",
+      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/door-kickers-action-squad-banner-igdb-1791899115-arb1g.jpg",
+      "apk": "",
+      "apkByAbi": {
+        "armeabi-v7a": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/action-squad-arm32-1791899084-Actionsquad.apk"
+      },
+      "sha256": ""
+    }
+  ]
+}
