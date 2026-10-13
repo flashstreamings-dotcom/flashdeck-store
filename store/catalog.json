@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -275,6 +275,42 @@
       "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/beach-buggy-racing-banner-igdb-1791933681-aray1.jpg",
       "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791933684-Beach-Buggy-Racing.apk",
       "sha256": "102c3f728d420651cc70ff0a5009af7a5326babbdc46f053306458988c4c9607",
+      "apkByAbi": {},
+      "packageType": "apk"
+    },
+    {
+      "id": "horizon-chase-turbo-senna-forever",
+      "title": "Horizon Chase Turbo: Senna Forever",
+      "category": "Corrida",
+      "packageName": "com.aquiris.horizonchase",
+      "versionName": "2.5",
+      "published": true,
+      "releaseNotes": "",
+      "rating": "Livre",
+      "synopsis": "A homage to the legendary driver Ayrton Senna, this Expansion Pack brings an entirely new set of cars, tracks, and features to the game, inspired by Senna's career.",
+      "language": "Português",
+      "coverMode": "fill",
+      "bannerMode": "fill",
+      "minAndroid": 21,
+      "minRamMb": 1024,
+      "storageMb": 500,
+      "requiredAbi": "armeabi-v7a",
+      "controller": "recommended",
+      "players": "1 jogador",
+      "internetRequired": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-turbo-senna-forever-screenshot-1-igdb-1791935528-scfxdp.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-turbo-senna-forever-screenshot-2-igdb-1791935528-scfxdq.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-turbo-senna-forever-screenshot-3-igdb-1791935528-scfxdr.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-turbo-senna-forever-screenshot-4-igdb-1791935528-scfxdu.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-turbo-senna-forever-screenshot-5-igdb-1791935528-scfxds.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-turbo-senna-forever-screenshot-6-igdb-1791935528-scfxdt.jpg"
+      ],
+      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-turbo-senna-forever-cover-igdb-1791935528-co47q2.jpg",
+      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-turbo-senna-forever-cover-igdb-1791935528-co47q2.jpg",
+      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-turbo-senna-forever-banner-igdb-1791935528-ar16nq.jpg",
+      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791935520-horizon-chase-2-5.apk",
+      "sha256": "5eafee020998f608619ae0e5ce2f32c1eb1837e5d81a8d80a8810b4703ccd88d",
       "apkByAbi": {},
       "packageType": "apk"
     }
