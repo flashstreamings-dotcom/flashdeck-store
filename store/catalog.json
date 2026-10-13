@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -171,6 +171,40 @@
       "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/riptide-gp-renegade-banner-igdb-1791933456-ard4m.jpg",
       "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791933451-Riptide-GP-Renegade.apk",
       "sha256": "c6146f2a657151c5b67a14716861eb4b3d638015c7b88cc3193156446796ed4c",
+      "apkByAbi": {},
+      "packageType": "apk"
+    },
+    {
+      "id": "shine-runner",
+      "title": "Shine Runner",
+      "category": "Corrida",
+      "packageName": "com.vectorunit.greenfree",
+      "versionName": "1.5.1",
+      "published": true,
+      "releaseNotes": "",
+      "rating": "Livre",
+      "synopsis": "Throw your flat-bottomed fanboat into high gear and slip and slide through the muddy waters of the backwoods bayou. Smash and crash through a destructible world filled with rickety swamp shacks, fishin’ boats, chicken coops, gators, and more. Pack your cargo hold to the brim with moonshine, tobacky, snake oil and other contraband and then sell ‘em to the highest bidder in a rampagin’ 10-day race for profit and glory. Just make sure you keep an eye out for Smokey–the more notorious you get, the more cops will come gunnin’ for you.",
+      "language": "Português",
+      "coverMode": "fill",
+      "bannerMode": "fill",
+      "minAndroid": 21,
+      "minRamMb": 1024,
+      "storageMb": 500,
+      "requiredAbi": "armeabi-v7a",
+      "controller": "recommended",
+      "players": "1 jogador",
+      "internetRequired": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/shine-runner-screenshot-1-igdb-1791933555-fxrdbyzspwccgjgi1cso.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/shine-runner-screenshot-2-igdb-1791933555-qman4be1gmwjwvxlvwkh.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/shine-runner-screenshot-3-igdb-1791933555-neizoqjpcykalao7mire.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/shine-runner-screenshot-4-igdb-1791933555-po6hfjq8h30zfefjbqmj.jpg"
+      ],
+      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/shine-runner-cover-igdb-1791933555-xphvisfpdmxl6ztspgwh.jpg",
+      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/shine-runner-cover-igdb-1791933555-xphvisfpdmxl6ztspgwh.jpg",
+      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/shine-runner-banner-igdb-1791933555-neizoqjpcykalao7mire.jpg",
+      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791933533-Shine-Runner.apk",
+      "sha256": "c1fee8e24e6dbb9f4b0bcfd996c84fa88dc9fae839daa1be4728a570d44f5ebe",
       "apkByAbi": {},
       "packageType": "apk"
     }
