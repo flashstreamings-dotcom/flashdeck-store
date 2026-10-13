@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "storeBanner": "",
+  "version": 9,
+  "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
       "id": "door-kickers-action-squad",
