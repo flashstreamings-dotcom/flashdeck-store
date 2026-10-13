@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -98,37 +98,6 @@
       "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/bombsquad-banner-igdb-1791910385-ar1ps8.jpg",
       "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791910241-Bomb-Squad.apk",
       "sha256": "2657e754c0fc4779a72f078a2a22bb25bcdca24ca11e82047659d585f5367b62",
-      "apkByAbi": {}
-    },
-    {
-      "id": "badland-2",
-      "title": "Badland 2",
-      "category": "Plataforma",
-      "packageName": "com.frogmind.badland2.cmcm",
-      "versionName": "1.0.0.1062",
-      "published": true,
-      "releaseNotes": "",
-      "rating": "Livre",
-      "synopsis": "Fly and survive through fantastic, hand-painted worlds filled with imaginative traps, puzzles and obstacles!\n\nWitness the award-winning world of BADLAND in even more stunning beauty with levels that extend and scroll to all directions. Survive through new elements such as liquids, flamethrowers, frost, magma, water and volumetric burning light. Fall down deadly rifts, fly to any direction, compete online and race & jump along the surfaces as a rolling character on your way to safety.",
-      "language": "Português",
-      "coverMode": "fill",
-      "bannerMode": "fill",
-      "minAndroid": 21,
-      "minRamMb": 1024,
-      "storageMb": 500,
-      "requiredAbi": "armeabi-v7a",
-      "controller": "recommended",
-      "players": "1 jogador",
-      "internetRequired": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-screenshot-1-igdb-1791910593-vzsokwqitbvxldziuxtk.jpg",
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-screenshot-2-igdb-1791910593-qfitwgfvxunohji8bpjn.jpg",
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-screenshot-3-igdb-1791910593-t8arognilzqxrb3c4ipu.jpg"
-      ],
-      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-cover-igdb-1791910593-co3z79.jpg",
-      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-banner-igdb-1791910593-vzsokwqitbvxldziuxtk.jpg",
-      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791910480-Badland-2.apk",
-      "sha256": "22c22dd85a3cc2ae565b7c62356d8bed7443d500e129386de094c25a567287af",
       "apkByAbi": {}
     }
   ]
