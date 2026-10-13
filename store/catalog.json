@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -239,6 +239,42 @@
       "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/reaper-tale-of-a-pale-swordsman-banner-igdb-1791933606-ar6366.jpg",
       "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791933606-Reaper.apk",
       "sha256": "2d580d81b9ef2ba51592dd11b5c65a06965987874c131a55ef47255af73c7d26",
+      "apkByAbi": {},
+      "packageType": "apk"
+    },
+    {
+      "id": "beach-buggy-racing",
+      "title": "Beach Buggy Racing",
+      "category": "Corrida",
+      "packageName": "com.vectorunit.purple.googleplay",
+      "versionName": "1.2.25",
+      "published": true,
+      "releaseNotes": "",
+      "rating": "Livre",
+      "synopsis": "Drive into an action-packed, surprise-filled world of off-road kart racing mayhem. Race against a field of rival drivers, each with unique personalities and special abilities. Build a collection of crazy powerups, like Dodgeball Frenzy, Fireball, and Oil Slick. Unlock and upgrade a variety of cars, from dune buggies to monster trucks. Test your skills in 6 different game modes on 15 imaginative 3D race tracks, against a pack of tropical-loving rivals with a serious case of road rage!\n\nThis is the official sequel Beach Buggy Blitz, the free driving game with over 30 Million players worldwide. Fast, furious, fun and FREE, Beach Buggy Racing is a kart-racing island adventure for all ages.",
+      "language": "Português",
+      "coverMode": "fill",
+      "bannerMode": "fill",
+      "minAndroid": 21,
+      "minRamMb": 1024,
+      "storageMb": 500,
+      "requiredAbi": "universal",
+      "controller": "recommended",
+      "players": "1 jogador",
+      "internetRequired": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/beach-buggy-racing-screenshot-1-igdb-1791933681-fypc1dvrklqol6rjs4fz.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/beach-buggy-racing-screenshot-2-igdb-1791933681-qokumsf1a5hur3ytwy4k.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/beach-buggy-racing-screenshot-3-igdb-1791933681-zsd7dhtt8w5rpuyz5nrn.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/beach-buggy-racing-screenshot-4-igdb-1791933681-ojzganezsroszhwyrsx0.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/beach-buggy-racing-screenshot-5-igdb-1791933681-rojn8snzbibvujqoqnix.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/beach-buggy-racing-screenshot-6-igdb-1791933681-kzcoqoj0tp6ku1rizjds.jpg"
+      ],
+      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/beach-buggy-racing-cover-igdb-1791933681-co3074.jpg",
+      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/beach-buggy-racing-cover-igdb-1791933681-co3074.jpg",
+      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/beach-buggy-racing-banner-igdb-1791933681-aray1.jpg",
+      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791933684-Beach-Buggy-Racing.apk",
+      "sha256": "102c3f728d420651cc70ff0a5009af7a5326babbdc46f053306458988c4c9607",
       "apkByAbi": {},
       "packageType": "apk"
     }
