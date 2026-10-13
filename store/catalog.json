@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -69,38 +69,38 @@
       "apkByAbi": {}
     },
     {
-      "id": "minigore-2-zombies",
-      "title": "Minigore 2: Zombies",
-      "category": "Tiro",
-      "packageName": "net.mountainsheep.minigore2zombiex",
-      "versionName": "1.28",
-      "published": true,
-      "releaseNotes": "",
-      "rating": "Livre",
-      "synopsis": "John Gore is back in Minigore 2, the second game in the series. Minigore 2 has new guns, characters, maps, and more.",
-      "language": "Português",
-      "coverMode": "fill",
+      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791933043-Minigore-2-zombies.apk",
+      "apkByAbi": {},
+      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-banner-1791933233-3aa2e4.png",
       "bannerMode": "fill",
+      "category": "Tiro",
+      "controller": "recommended",
+      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-cover-igdb-1791933186-ywgxxmgied5qhf5rnupn.jpg",
+      "coverMode": "fill",
+      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-cover-igdb-1791933186-ywgxxmgied5qhf5rnupn.jpg",
+      "id": "minigore-2-zombies",
+      "internetRequired": false,
+      "language": "Português",
       "minAndroid": 21,
       "minRamMb": 1024,
-      "storageMb": 500,
-      "requiredAbi": "armeabi-v7a",
-      "controller": "recommended",
+      "packageName": "net.mountainsheep.minigore2zombiex",
+      "packageType": "apk",
       "players": "1 jogador",
-      "internetRequired": false,
+      "published": true,
+      "rating": "Livre",
+      "releaseNotes": "",
+      "requiredAbi": "armeabi-v7a",
       "screenshots": [
         "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-screenshot-1-igdb-1791933186-jsyjsfnave2oe2elua33.jpg",
         "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-screenshot-2-igdb-1791933186-cfseimulnb0k4ube5dq3.jpg",
         "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-screenshot-3-igdb-1791933186-evuaphvb7giy1nhv9rog.jpg",
         "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-screenshot-4-igdb-1791933186-rlqsdmd8y6qhnkwwgcwo.jpg"
       ],
-      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-cover-igdb-1791933186-ywgxxmgied5qhf5rnupn.jpg",
-      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-cover-igdb-1791933186-ywgxxmgied5qhf5rnupn.jpg",
-      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-banner-igdb-1791933186-hf3dk2rpmsqv2uqf75ql.jpg",
-      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791933043-Minigore-2-zombies.apk",
       "sha256": "840357d258f75e5ebac0568d11093959431c639c6dc1211a9b603fcd8ff67100",
-      "apkByAbi": {},
-      "packageType": "apk"
+      "storageMb": 500,
+      "synopsis": "John Gore is back in Minigore 2, the second game in the series. Minigore 2 has new guns, characters, maps, and more.",
+      "title": "Minigore 2: Zombies",
+      "versionName": "1.28"
     }
   ]
 }
