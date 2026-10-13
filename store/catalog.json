@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -135,6 +135,42 @@
       "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/limbo-banner-igdb-1791933282-ar5p60.jpg",
       "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791933300-Limbo.apk",
       "sha256": "54a58b55d76b5d05c5c428c66803ce540692fbc8585b805928f8ac4443a4b439",
+      "apkByAbi": {},
+      "packageType": "apk"
+    },
+    {
+      "id": "riptide-gp-renegade",
+      "title": "Riptide GP: Renegade",
+      "category": "Corrida",
+      "packageName": "com.vectorunit.silver.googleplay",
+      "versionName": "1.2.3",
+      "published": true,
+      "releaseNotes": "",
+      "rating": "Livre",
+      "synopsis": "Riptide GP: Renegade drops players into a futuristic world of illicit hydro jet racing, where armored riders kick out death-defying stunts over massive waterfalls, outrun cops, and boost at breakneck speeds across surging waves. With a deep career mode and both split screen and online multiplayer, Riptide GP: Renegade is the first game in the popular racing series designed especially for modern consoles.",
+      "language": "Português",
+      "coverMode": "fill",
+      "bannerMode": "fill",
+      "minAndroid": 21,
+      "minRamMb": 1024,
+      "storageMb": 500,
+      "requiredAbi": "armeabi-v7a",
+      "controller": "recommended",
+      "players": "1 jogador",
+      "internetRequired": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/riptide-gp-renegade-screenshot-1-igdb-1791933456-lqktzaa20h5lwctzwmpc.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/riptide-gp-renegade-screenshot-2-igdb-1791933456-ahtiyjfsuuqt2oigrzwx.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/riptide-gp-renegade-screenshot-3-igdb-1791933456-gctyapifhmavgjoqvi0x.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/riptide-gp-renegade-screenshot-4-igdb-1791933456-kbplmsclww6phtacyhel.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/riptide-gp-renegade-screenshot-5-igdb-1791933456-envlnwsuhrbl95grlabo.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/riptide-gp-renegade-screenshot-6-igdb-1791933456-qeiuynsmbf4errlbqc4s.jpg"
+      ],
+      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/riptide-gp-renegade-cover-igdb-1791933456-co1wq8.jpg",
+      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/riptide-gp-renegade-cover-igdb-1791933456-co1wq8.jpg",
+      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/riptide-gp-renegade-banner-igdb-1791933456-ard4m.jpg",
+      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791933451-Riptide-GP-Renegade.apk",
+      "sha256": "c6146f2a657151c5b67a14716861eb4b3d638015c7b88cc3193156446796ed4c",
       "apkByAbi": {},
       "packageType": "apk"
     }
