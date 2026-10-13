@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "storeBanner": "",
   "games": [
     {
@@ -36,38 +36,6 @@
         "armeabi-v7a": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/action-squad-arm32-1791899084-Actionsquad.apk"
       },
       "sha256": ""
-    },
-    {
-      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/horizzon-chase-universal-1791907070-Horizon-Chase.apk",
-      "apkByAbi": {},
-      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-banner-1791907217-5627e5.jpg",
-      "bannerMode": "fill",
-      "category": "Corrida",
-      "controller": "recommended",
-      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-cover-igdb-1791906987-cob6ez.jpg",
-      "coverMode": "fill",
-      "id": "horizon-chase",
-      "internetRequired": false,
-      "language": "Português",
-      "minAndroid": 22,
-      "minRamMb": 1024,
-      "packageName": "com.aquiris.horizonchase",
-      "players": "1 jogador",
-      "published": true,
-      "rating": "Livre",
-      "releaseNotes": "",
-      "requiredAbi": "universal",
-      "screenshots": [
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-screenshot-1-igdb-1791906987-rppnzcmcme13cseozjow.jpg",
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-screenshot-2-igdb-1791906987-qg2iroqpcuogkjoa9rg5.jpg",
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-screenshot-3-igdb-1791906987-ujlilprfha9pxv41zpff.jpg",
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-screenshot-4-igdb-1791906987-vfi0p3qlubyszz1fcgdo.jpg"
-      ],
-      "sha256": "f5453fadc1f0b8a8a854c90ae0fa149b48240ff00163af4e42da15d520088982",
-      "storageMb": 681,
-      "synopsis": "A racing game for iOS and Android. Inspired by Outrun and Top Gear.",
-      "title": "Horizon Chase",
-      "versionName": "2.6.9"
     }
   ]
 }
