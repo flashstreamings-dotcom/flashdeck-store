@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -67,41 +67,6 @@
       "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791910241-Bomb-Squad.apk",
       "sha256": "2657e754c0fc4779a72f078a2a22bb25bcdca24ca11e82047659d585f5367b62",
       "apkByAbi": {}
-    },
-    {
-      "id": "drive",
-      "title": "#Drive",
-      "category": "Corrida",
-      "packageName": "com.pixelperfectdude.htdrive",
-      "versionName": "1.0",
-      "published": true,
-      "releaseNotes": "",
-      "rating": "Livre",
-      "synopsis": "#Drive is an endless driving video game inspired by road and action movies from the 70s and 80s. As simple as possible, allowing the player to pick a car, pick the place and just hit the road. Just be aware not to hit anything else. No matter where we drive, no matter what we drive or how fast we drive. We simply chose to drive.",
-      "language": "Português",
-      "coverMode": "fill",
-      "bannerMode": "fill",
-      "minAndroid": 23,
-      "minRamMb": 1024,
-      "storageMb": 350,
-      "requiredAbi": "universal",
-      "controller": "recommended",
-      "players": "1 jogador",
-      "internetRequired": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/drive-screenshot-1-igdb-1791928480-sc9jcp.jpg",
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/drive-screenshot-2-igdb-1791928480-sc9jcs.jpg",
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/drive-screenshot-3-igdb-1791928480-sc9jcv.jpg",
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/drive-screenshot-4-igdb-1791928480-sc9jcw.jpg",
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/drive-screenshot-5-igdb-1791928480-sc9jco.jpg"
-      ],
-      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/drive-cover-igdb-1791928480-co8vs1.jpg",
-      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/drive-cover-igdb-1791928480-co8vs1.jpg",
-      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/drive-banner-igdb-1791928480-ar93n.jpg",
-      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791928041-Drive.xapk",
-      "sha256": "0c0a521d5d4c5dcc8a16efdf562d3dc0f78f3bf889ff3d29e6e7f57027b70c63",
-      "apkByAbi": {},
-      "packageType": "xapk"
     }
   ]
 }
