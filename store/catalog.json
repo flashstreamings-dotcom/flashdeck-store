@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "storeBanner": "",
   "games": [
     {
@@ -36,6 +36,38 @@
         "armeabi-v7a": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/action-squad-arm32-1791899084-Actionsquad.apk"
       },
       "sha256": ""
+    },
+    {
+      "id": "minigore-2-zombies",
+      "title": "Minigore 2: Zombies",
+      "category": "Tiro",
+      "packageName": "net.mountainsheep.minigore2zombiex",
+      "versionName": "1.28",
+      "published": true,
+      "releaseNotes": "",
+      "rating": "Livre",
+      "synopsis": "John Gore is back in Minigore 2, the second game in the series. Minigore 2 has new guns, characters, maps, and more.",
+      "language": "Português",
+      "coverMode": "fill",
+      "bannerMode": "fill",
+      "minAndroid": 21,
+      "minRamMb": 1024,
+      "storageMb": 500,
+      "requiredAbi": "armeabi-v7a",
+      "controller": "recommended",
+      "players": "1 jogador",
+      "internetRequired": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-screenshot-1-igdb-1791909485-jsyjsfnave2oe2elua33.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-screenshot-2-igdb-1791909485-cfseimulnb0k4ube5dq3.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-screenshot-3-igdb-1791909485-evuaphvb7giy1nhv9rog.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-screenshot-4-igdb-1791909485-rlqsdmd8y6qhnkwwgcwo.jpg"
+      ],
+      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-cover-igdb-1791909485-ywgxxmgied5qhf5rnupn.jpg",
+      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-banner-1791909511-b6ef82.png",
+      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791909334-Minigore-2-zombies.apk",
+      "sha256": "840357d258f75e5ebac0568d11093959431c639c6dc1211a9b603fcd8ff67100",
+      "apkByAbi": {}
     }
   ]
 }
