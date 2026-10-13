@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -205,6 +205,40 @@
       "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/shine-runner-banner-igdb-1791933555-neizoqjpcykalao7mire.jpg",
       "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791933533-Shine-Runner.apk",
       "sha256": "c1fee8e24e6dbb9f4b0bcfd996c84fa88dc9fae839daa1be4728a570d44f5ebe",
+      "apkByAbi": {},
+      "packageType": "apk"
+    },
+    {
+      "id": "reaper-tale-of-a-pale-swordsman",
+      "title": "Reaper: Tale of a Pale Swordsman",
+      "category": "Luta",
+      "packageName": "net.hexage.reaper",
+      "versionName": "1.4.13",
+      "published": true,
+      "releaseNotes": "",
+      "rating": "Livre",
+      "synopsis": "Enter the world ripe with magic and monsters. Become the Black Swordsman and slay thousands of enemies in an epic action RPG.\n\nWar broke between the industrious Imperium and the savage tribes of Wilderness. Demons and carrions have returned to the land.\n\nPlay all sides and make your own decisions. Take countless quests and uncover the secrets of Wilderness!",
+      "language": "Português",
+      "coverMode": "fill",
+      "bannerMode": "fill",
+      "minAndroid": 21,
+      "minRamMb": 1024,
+      "storageMb": 500,
+      "requiredAbi": "armeabi-v7a",
+      "controller": "recommended",
+      "players": "1 jogador",
+      "internetRequired": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/reaper-tale-of-a-pale-swordsman-screenshot-1-igdb-1791933606-iziq1dcwifo33lnxu5aq.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/reaper-tale-of-a-pale-swordsman-screenshot-2-igdb-1791933606-xooumaqtg6w7i4cl2tmt.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/reaper-tale-of-a-pale-swordsman-screenshot-3-igdb-1791933606-ipgk0pmwiet60hynaejx.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/reaper-tale-of-a-pale-swordsman-screenshot-4-igdb-1791933606-c47tncmnhvyucrf6nacm.jpg"
+      ],
+      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/reaper-tale-of-a-pale-swordsman-cover-igdb-1791933606-co3ybu.jpg",
+      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/reaper-tale-of-a-pale-swordsman-cover-igdb-1791933606-co3ybu.jpg",
+      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/reaper-tale-of-a-pale-swordsman-banner-igdb-1791933606-ar6366.jpg",
+      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791933606-Reaper.apk",
+      "sha256": "2d580d81b9ef2ba51592dd11b5c65a06965987874c131a55ef47255af73c7d26",
       "apkByAbi": {},
       "packageType": "apk"
     }
