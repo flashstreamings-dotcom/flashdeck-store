@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -101,6 +101,42 @@
       "synopsis": "John Gore is back in Minigore 2, the second game in the series. Minigore 2 has new guns, characters, maps, and more.",
       "title": "Minigore 2: Zombies",
       "versionName": "1.28"
+    },
+    {
+      "id": "limbo",
+      "title": "Limbo",
+      "category": "Plataforma",
+      "packageName": "com.playdead.limbo.full",
+      "versionName": "1.20",
+      "published": true,
+      "releaseNotes": "",
+      "rating": "Livre",
+      "synopsis": "Limbo is a black and white puzzle-platforming adventure. Players take the role of a young boy traveling through an eerie and treacherous world in an attempt to discover the fate of his sister.",
+      "language": "Português",
+      "coverMode": "fill",
+      "bannerMode": "fill",
+      "minAndroid": 21,
+      "minRamMb": 1024,
+      "storageMb": 500,
+      "requiredAbi": "universal",
+      "controller": "recommended",
+      "players": "1 jogador",
+      "internetRequired": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/limbo-screenshot-1-igdb-1791933282-sc99xz.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/limbo-screenshot-2-igdb-1791933282-sc99y0.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/limbo-screenshot-3-igdb-1791933282-sc99y1.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/limbo-screenshot-4-igdb-1791933282-sc99y2.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/limbo-screenshot-5-igdb-1791933282-sc99y3.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/limbo-screenshot-6-igdb-1791933282-sc99y4.jpg"
+      ],
+      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/limbo-cover-igdb-1791933282-co1qrs.jpg",
+      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/limbo-cover-igdb-1791933282-co1qrs.jpg",
+      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/limbo-banner-igdb-1791933282-ar5p60.jpg",
+      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791933300-Limbo.apk",
+      "sha256": "54a58b55d76b5d05c5c428c66803ce540692fbc8585b805928f8ac4443a4b439",
+      "apkByAbi": {},
+      "packageType": "apk"
     }
   ]
 }
