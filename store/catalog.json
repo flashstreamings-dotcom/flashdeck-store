@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "storeBanner": "",
   "games": [
     {
@@ -67,6 +67,37 @@
       "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/minigore-2-zombies-banner-1791909511-b6ef82.png",
       "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791909334-Minigore-2-zombies.apk",
       "sha256": "840357d258f75e5ebac0568d11093959431c639c6dc1211a9b603fcd8ff67100",
+      "apkByAbi": {}
+    },
+    {
+      "id": "bombsquad",
+      "title": "BombSquad",
+      "category": "Tiro",
+      "packageName": "net.froemling.bombsquad",
+      "versionName": "1.4.148",
+      "published": true,
+      "releaseNotes": "",
+      "rating": "Livre",
+      "synopsis": "Introducing BombSquad, an explosive arcade-style party game best enjoyed with several friends and a large couch.\n\nJump, punch, throw, and bomb your way to victory as you compete in a plethora of mini-games including Capture-the-Flag, King-of-the-Hill, Bomber-Hockey, and of course Epic-Slow-Motion-Elimination.\n\nUp to 8 local players can get in on the action through BombSquad’s support of keyboards, PC gamepads, Wiimotes, PS3 controllers, and XBox 360 controllers. You can even use iOS and Android devices as wireless gamepads via BombSquad Remote, available for free on the iOS App Store, Google Play, and the Amazon Appstore.\n\nHarness your mastery of physics to barrage your opponents from afar with precision-thrown bombs, or simply charge in and toss your enemies off the nearest cliff; all’s fair in love and BombSquad.",
+      "language": "Português",
+      "coverMode": "fill",
+      "bannerMode": "fill",
+      "minAndroid": 21,
+      "minRamMb": 512,
+      "storageMb": 60,
+      "requiredAbi": "armeabi-v7a",
+      "controller": "recommended",
+      "players": "1 jogador",
+      "internetRequired": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/bombsquad-screenshot-1-igdb-1791910385-apii1uu0xgkgcsg1y5d6.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/bombsquad-screenshot-2-igdb-1791910385-byw2p24gamhmsjudvgar.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/bombsquad-screenshot-3-igdb-1791910385-hi6udvx6wmxutnav2mvk.jpg"
+      ],
+      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/bombsquad-cover-igdb-1791910385-cob9pf.jpg",
+      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/bombsquad-banner-igdb-1791910385-ar1ps8.jpg",
+      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791910241-Bomb-Squad.apk",
+      "sha256": "2657e754c0fc4779a72f078a2a22bb25bcdca24ca11e82047659d585f5367b62",
       "apkByAbi": {}
     }
   ]
