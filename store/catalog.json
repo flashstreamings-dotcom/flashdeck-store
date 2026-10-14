@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -314,5 +314,13 @@
       "apkByAbi": {},
       "packageType": "apk"
     }
-  ]
+  ],
+  "launcherUpdate": {
+    "versionCode": 0,
+    "versionName": "",
+    "apk": "",
+    "sha256": "",
+    "notes": "",
+    "published": false
+  }
 }
