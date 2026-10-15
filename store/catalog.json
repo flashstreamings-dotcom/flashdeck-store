@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -385,10 +385,10 @@
     }
   ],
   "launcherUpdate": {
-    "versionCode": 27,
-    "versionName": "0.5.4",
-    "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/flashdeck-launcher-v0.5.4-1792065746.apk",
-    "sha256": "d1ef284cd5f8387e2bce356759225450d31d6de149c3a1155799cf8c1906ffdd",
+    "versionCode": 28,
+    "versionName": "0.5.5",
+    "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/flashdeck-launcher-v0.5.5-1792089786.apk",
+    "sha256": "a39910ac6943dd713601989d18aead777499a1101f09a3d13c6e22865999492a",
     "notes": "",
     "published": true
   }
