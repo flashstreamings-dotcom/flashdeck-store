@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -347,39 +347,6 @@
       "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/fr-legends-banner-igdb-1792024826-scgpx7.jpg",
       "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1792024771-FR-legends.apk",
       "sha256": "eedfa94528c325a0d55dd38a5abf1739a713f60ee36951c91b84e213a7be79df",
-      "apkByAbi": {},
-      "packageType": "apk"
-    },
-    {
-      "id": "knightmare-tower",
-      "title": "Knightmare Tower",
-      "category": "Plataforma",
-      "packageName": "com.juicybeast.knightmaretower",
-      "versionName": "1.0.2",
-      "published": true,
-      "releaseNotes": "",
-      "rating": "Livre",
-      "synopsis": "Break through ceilings, rescue princesses and escape boiling lava as you slash your way to the top of the Knightmare Tower!",
-      "language": "Português",
-      "coverMode": "fill",
-      "bannerMode": "fill",
-      "minAndroid": 21,
-      "minRamMb": 1024,
-      "storageMb": 60,
-      "requiredAbi": "armeabi-v7a",
-      "controller": "recommended",
-      "players": "1 jogador",
-      "internetRequired": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-screenshot-1-igdb-1792070155-fzkl7xasw6es8ohwe9bc.jpg",
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-screenshot-2-igdb-1792070155-cwen1ijv1vjoh80pmute.jpg",
-        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-screenshot-3-igdb-1792070155-hslpuidsccrogb8xnbi4.jpg"
-      ],
-      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-cover-igdb-1792070155-co44jq.jpg",
-      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-cover-igdb-1792070155-co44jq.jpg",
-      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-banner-igdb-1792070155-ar711.jpg",
-      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/knightmare-tower-universal-1792070172-Knightmare-Tower-V1.0.2.apk",
-      "sha256": "571c8c0b2c954aa4378dceae02e83622d056feb5a5bc489edd01bc99f4554aea",
       "apkByAbi": {},
       "packageType": "apk"
     },
