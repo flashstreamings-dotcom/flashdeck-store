@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -311,6 +311,42 @@
       "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/horizon-chase-turbo-senna-forever-banner-igdb-1791935528-ar16nq.jpg",
       "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1791935520-horizon-chase-2-5.apk",
       "sha256": "5eafee020998f608619ae0e5ce2f32c1eb1837e5d81a8d80a8810b4703ccd88d",
+      "apkByAbi": {},
+      "packageType": "apk"
+    },
+    {
+      "id": "fr-legends",
+      "title": "FR Legends",
+      "category": "Corrida",
+      "packageName": "com.fengiiley.frlegends",
+      "versionName": "0.4.9",
+      "published": true,
+      "releaseNotes": "",
+      "rating": "Livre",
+      "synopsis": "From driving legendary FR (front-engine, rear-wheel-drive) drift cars at world’s most iconic circuits, to customize everything on your car including engine swaps and wide-body kits.",
+      "language": "Português",
+      "coverMode": "fill",
+      "bannerMode": "fill",
+      "minAndroid": 23,
+      "minRamMb": 1024,
+      "storageMb": 500,
+      "requiredAbi": "universal",
+      "controller": "recommended",
+      "players": "1 jogador",
+      "internetRequired": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/fr-legends-screenshot-1-igdb-1792024826-scgpx2.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/fr-legends-screenshot-2-igdb-1792024826-scgpx3.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/fr-legends-screenshot-3-igdb-1792024826-scgpx4.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/fr-legends-screenshot-4-igdb-1792024826-scgpx5.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/fr-legends-screenshot-5-igdb-1792024826-scgpx6.jpg",
+        "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/fr-legends-screenshot-6-igdb-1792024826-scgpx7.jpg"
+      ],
+      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/fr-legends-cover-igdb-1792024826-co86zs.jpg",
+      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/fr-legends-cover-igdb-1792024826-co86zs.jpg",
+      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/fr-legends-banner-igdb-1792024826-scgpx7.jpg",
+      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1792024771-FR-legends.apk",
+      "sha256": "eedfa94528c325a0d55dd38a5abf1739a713f60ee36951c91b84e213a7be79df",
       "apkByAbi": {},
       "packageType": "apk"
     }
