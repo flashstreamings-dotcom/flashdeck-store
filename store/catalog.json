@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "storeBanner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/badland-2-storeBanner-1791910693-17ee27.jpg",
   "games": [
     {
@@ -351,37 +351,37 @@
       "packageType": "apk"
     },
     {
-      "id": "knightmare-tower",
-      "title": "Knightmare Tower",
-      "category": "Plataforma",
-      "packageName": "com.juicybeast.knightmaretower.flashpad",
-      "versionName": "1.0.2",
-      "published": true,
-      "releaseNotes": "",
-      "rating": "Livre",
-      "synopsis": "Break through ceilings, rescue princesses and escape boiling lava as you slash your way to the top of the Knightmare Tower!",
-      "language": "Português",
-      "coverMode": "fill",
+      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/knightmare-tower-universal-1792090852-Knightmare_Tower_Android_Controle_TESTE_02.apk",
+      "apkByAbi": {},
+      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-banner-igdb-1792088791-ar711.jpg",
       "bannerMode": "fill",
+      "category": "Plataforma",
+      "controller": "recommended",
+      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-cover-igdb-1792088791-co44jq.jpg",
+      "coverMode": "fill",
+      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-cover-igdb-1792088791-co44jq.jpg",
+      "id": "knightmare-tower",
+      "internetRequired": false,
+      "language": "Português",
       "minAndroid": 21,
       "minRamMb": 1024,
-      "storageMb": 500,
-      "requiredAbi": "armeabi-v7a",
-      "controller": "recommended",
+      "packageName": "com.juicybeast.knightmaretower.flashpad",
+      "packageType": "apk",
       "players": "1 jogador",
-      "internetRequired": false,
+      "published": true,
+      "rating": "Livre",
+      "releaseNotes": "",
+      "requiredAbi": "armeabi-v7a",
       "screenshots": [
         "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-screenshot-1-igdb-1792088791-fzkl7xasw6es8ohwe9bc.jpg",
         "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-screenshot-2-igdb-1792088791-cwen1ijv1vjoh80pmute.jpg",
         "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-screenshot-3-igdb-1792088791-hslpuidsccrogb8xnbi4.jpg"
       ],
-      "icon": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-cover-igdb-1792088791-co44jq.jpg",
-      "cover": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-cover-igdb-1792088791-co44jq.jpg",
-      "banner": "https://raw.githubusercontent.com/flashstreamings-dotcom/flashdeck-store/main/store/art/knightmare-tower-banner-igdb-1792088791-ar711.jpg",
-      "apk": "https://github.com/flashstreamings-dotcom/flashdeck-store/releases/download/flashdeck-games/store-universal-1792088595-Knightmare_Tower_Android_Controle_TESTE_01.apk",
-      "sha256": "19a211db63630bd4081d137cd480bcf5edf0249d128dadac745593c65f3b93c4",
-      "apkByAbi": {},
-      "packageType": "apk"
+      "sha256": "4c486bb09abdad0484d20e99b0861f983905dc85c24ba23517e64e54ccb64f64",
+      "storageMb": 500,
+      "synopsis": "Break through ceilings, rescue princesses and escape boiling lava as you slash your way to the top of the Knightmare Tower!",
+      "title": "Knightmare Tower",
+      "versionName": "1.0.2"
     }
   ],
   "launcherUpdate": {
